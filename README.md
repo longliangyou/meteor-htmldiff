@@ -13,7 +13,7 @@ want to show a diff of user-generated HTML (like from a wysiwyg editor).
 
 ##Usage
 You use it like this:
-```
+```coffee
   console.log htmldiff '<p>this is some text</p>', '<p>this is some more text</p>'
 ```
 And you get:
