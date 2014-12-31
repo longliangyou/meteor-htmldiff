@@ -2,7 +2,7 @@
 ### HTML Diffing in JavaScript (ok, CoffeeScript actually.). repackaged for Meteor
 
 
-`htmldiff.js` is a meteor port of https://github.com/tnwinc/htmldiff.js.git
+`meteor-htmldiff` is a meteor package of https://github.com/tnwinc/htmldiff.js.git
 
 This is diffing that understands HTML. Best suited for cases when you
 want to show a diff of user-generated HTML (like from a wysiwyg editor).
